@@ -1,0 +1,12 @@
+[submodule "clientspa"]
+	path = clientspa
+	url = https://github.com/gamjaishite/drawl-v2-clientspa
+[submodule "config"]
+	path = config
+	url = https://github.com/gamjaishite/drawl-v2-config
+[submodule "phpservice"]
+	path = phpservice
+	url = https://github.com/gamjaishite/drawl-v2-phpservice
+[submodule "soapservice"]
+	path = soapservice
+	url = https://github.com/gamjaishite/drawl-v2-soapservice
